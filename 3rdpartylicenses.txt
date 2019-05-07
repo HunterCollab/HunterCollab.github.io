@@ -134,8 +134,6 @@ THE SOFTWARE.
 
 @angular/material/icon
 
-@angular/material/menu
-
 @angular/material/sidenav
 
 @angular/material/stepper
